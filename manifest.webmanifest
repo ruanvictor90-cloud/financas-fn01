@@ -1,0 +1,11 @@
+{
+  "name": "Finanças FN-01 Beta",
+  "short_name": "Finanças",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "lang": "pt-BR",
+  "description": "Gestão financeira pessoal FN-01 Beta"
+}
